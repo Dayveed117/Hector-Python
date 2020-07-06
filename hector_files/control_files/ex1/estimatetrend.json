@@ -1,0 +1,17 @@
+{
+    "DataFile":"TEST.mom",
+    "DataDirectory":".\/pre_files",
+    "OutputFile":".\/mom_files\/TEST.mom",
+    "interpolate":"no",
+    "PhysicalUnit":"mm",
+    "ScaleFactor":"1.0",
+    "NoiseModels":[
+        "Powerlaw",
+        "White"
+    ],
+    "seasonalsignal":"yes",
+    "halfseasonalsignal":"no",
+    "estimateoffsets":"yes",
+    "ScaleFactor2":"1.0",
+    "PhysicalUnit2":"mm"
+}

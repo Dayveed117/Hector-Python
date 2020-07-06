@@ -1,0 +1,11 @@
+{
+    "DataFile":"ULAB_2.mom",
+    "DataDirectory":".\/mom_files",
+    "ScaleFactor":"1.0",
+    "PhysicalUnit":"mm",
+    "NoiseModels":[
+        "Powerlaw",
+        "White"
+    ],
+    "TimeNoiseStart":"1000"
+}

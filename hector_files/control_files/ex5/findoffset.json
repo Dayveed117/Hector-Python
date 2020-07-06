@@ -1,0 +1,22 @@
+{
+    "DataFile":"dummy2_3.mom",
+    "OutputFile":"output.mom",
+    "DataDirectory":".\/",
+    "interpolate":"no",
+    "PhysicalUnit":"mm",
+    "ScaleFactor":"1.0",
+    "NoiseModels":[
+        "GGM",
+        "White"
+    ],
+    "seasonalsignal":"yes",
+    "halfseasonalsignal":"yes",
+    "estimateoffsets":"yes",
+    "ScaleFactor2":"1.0",
+    "PhysicalUnit2":"mm",
+    "beta_size":"10.0",
+    "beta_spacing":"8.5",
+    "offsets_3D":"yes",
+    "GGM_1mphi":"6.9e-06",
+    "BIC_c_ExtraPenalty":"0.000000"
+}

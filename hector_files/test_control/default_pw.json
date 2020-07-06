@@ -1,0 +1,15 @@
+{
+    "Interpolate":"yes",
+    "PhysicalUnit":"mm",
+    "ScaleFactor":1.5,
+    "NoiseModels":[
+        "Powerlaw",
+        "White"
+    ],
+    "SeasonSignal":"yes",
+    "HalfSeasonSignals":"yes",
+    "EstimateOffsets":"yes",
+    "ScaleFactor2":1.1,
+    "PhysicalUnit2":"mm",
+    "MinimizationMethod":"Default"
+}

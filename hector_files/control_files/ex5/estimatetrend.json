@@ -1,0 +1,20 @@
+{
+    "DataFile":"MAS1_2.mom",
+    "DataDirectory":".\/pre_files",
+    "OutputFile":".\/mom_files\/MAS1_2.mom",
+    "interpolate":"no",
+    "PhysicalUnit":"mm",
+    "ScaleFactor":"1.0",
+    "NoiseModels":[
+        "GGM",
+        "White"
+    ],
+    "GGM_1mphi":"6.9e-06",
+    "seasonalsignal":"yes",
+    "halfseasonalsignal":"yes",
+    "estimateoffsets":"yes",
+    "estimatepostseismic":"yes",
+    "estimateslowslipevent":"yes",
+    "ScaleFactor2":"1.0",
+    "PhysicalUnit2":"mm"
+}

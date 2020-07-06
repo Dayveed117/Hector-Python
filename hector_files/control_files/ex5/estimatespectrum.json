@@ -1,0 +1,8 @@
+{
+    "DataFile":"ULAB_2.mom",
+    "DataDirectory":".\/mom_files",
+    "interpolate":"yes",
+    "NoiseModels":"PLWN",
+    "ScaleFactor":"1.0",
+    "PhysicalUnit":"mm"
+}

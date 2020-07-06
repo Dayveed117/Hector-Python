@@ -1,0 +1,18 @@
+{
+    "DataFile":"TEST.mom",
+    "DataDirectory":".\/obs_files",
+    "OutputFile":".\/mom_files\/TEST.mom",
+    "interpolate":"no",
+    "seasonalsignal":"no",
+    "halfseasonalsignal":"no",
+    "estimateoffsets":"yes",
+    "estimatepostseismic":"yes",
+    "NoiseModels":[
+        "GGM",
+        "White"
+    ],
+    "GGM_1mphi":"6.9e-06",
+    "PhysicalUnit":"mm",
+    "ScaleFactor":"1.0",
+    "TimeNoiseStart":"1000.0"
+}

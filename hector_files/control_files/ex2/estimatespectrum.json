@@ -1,0 +1,6 @@
+{
+    "DataFile":"52_out.mom",
+    "DataDirectory":".\/",
+    "OutputFile":"estimatespectrum_test.out",
+    "interpolate":"no"
+}

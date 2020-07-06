@@ -1,0 +1,8 @@
+{
+    "DataFile":"TEST.mom",
+    "DataDirectory":".\/mom_files",
+    "interpolate":"yes",
+    "NoiseModels":"PLWN",
+    "ScaleFactor":"1.0",
+    "PhysicalUnit":"mm"
+}
